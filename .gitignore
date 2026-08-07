@@ -1,0 +1,19 @@
+# Dataset
+data
+
+# Python
+__pycache__
+.pyc
+
+# Jupyter
+.ipynb_checkpoints
+
+# Models
+models
+
+# Outputs
+outputs
+
+# Virtual environments
+.venv
+env
